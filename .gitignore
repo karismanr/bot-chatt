@@ -1,0 +1,8 @@
+node_modules/*
+*.swp
+*.json
+.env
+!package.json
+!config/*.json
+!nodemon.json
+index1.js

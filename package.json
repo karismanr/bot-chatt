@@ -1,0 +1,42 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "whatsapp chatbot by Ngaji Ngoding",
+  "main": "index.js",
+  "scripts": {
+    "dev terminal": "nodemon index1.js terminalbot",
+    "bot": "node index.js",
+    "bot terminal": "node index.js terminalbot",
+    "dev": "node index1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fathb/chatbot.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot"
+  ],
+  "author": "Ngaji Ngoding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fathb/chatbot/issues"
+  },
+  "exports": {
+    "./helper": "./helper.js",
+    "./ss": "./spreadsheet.js",
+    "./term": "./lib/terminal.js"
+  },
+  "homepage": "https://github.com/Fathb/chatbot#readme",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "googleapis": "^91.0.0",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.19",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
