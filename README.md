@@ -89,3 +89,4 @@ npm run "bot terminal"
 # chatt-bot--wa
 # chatt-bot--wa
 # chatt-bot-wa
+# chatt-bot-wa
