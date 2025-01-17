@@ -6,7 +6,7 @@ Script bot wa input data ke google spreadsheet
 
 
 ```bash
-git clone https://github.com/karismanr/bot-chatt.git
+https://github.com/karismanr/bot-chatt.git
 cd chatbot-spreadsheet
 npm install
 ```
