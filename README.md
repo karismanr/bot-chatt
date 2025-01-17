@@ -61,21 +61,8 @@ Di sini saya asumsikan kalian sudah memiliki akun google atau google yang aktif
 
 **Cara input data**
 
-
-
 1. Buat key dan template folmulir;
 2. Untuk value data awali dengan titik dua (:)
-
-[**video tutorialnya**](https://youtu.be/b5GwwbGStHc)
-[![cara pakai](http://i3.ytimg.com/vi/b5GwwbGStHc/hqdefault.jpg)](https://youtu.be/b5GwwbGStHc)
-
-[membuat auto response di spreadsheet](https://youtu.be/vZsK3uJJaeA)
-[![with thumb](http://i3.ytimg.com/vi/vZsK3uJJaeA/hqdefault.jpg)](https://youtu.be/vZsK3uJJaeA)
-
-[ambil data dari spreadsheer](https://youtu.be/3CyTAIvr354)
-[![thumb](http://i3.ytimg.com/vi/3CyTAIvr354/hqdefault.jpg)](https://youtu.be/3CyTAIvr354)
-
-[bot terminal](https://youtu.be/DVcqQzKDrds)
 
 **untuk menjalankan bot termux / terminal**
 
@@ -83,10 +70,3 @@ Di sini saya asumsikan kalian sudah memiliki akun google atau google yang aktif
 npm run "bot terminal"
 ```
 
-- [Buat Ngopi](https://saweria.co/fathb)
-
-- [donate pake Dana](https://link.dana.id/qr/35gzimg9)
-# chatt-bot--wa
-# chatt-bot--wa
-# chatt-bot-wa
-# chatt-bot-wa
